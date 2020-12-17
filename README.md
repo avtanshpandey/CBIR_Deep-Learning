@@ -6,4 +6,4 @@ Content Based Image Retrieval, also known as Query by Image Content (QBIC), pres
 ## Code Files
 - CBIR.ipynb - It has various algorithm implementations for performing CBIR. It has been performed on the company's dataset too and it worked well.
 - Evaluation.py - It is to evaluate mAP. It can be used on the company's dataset with annotations and predictions.
-- extract_labels_train - It should be able to create files out of the annotation files, referred Aditya's repository.
+- extract_labels_train - It should be able to create files out of the annotation files, referred Abhinav's repository.
